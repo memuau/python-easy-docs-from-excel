@@ -33,5 +33,6 @@ tf.make_all_docs()
 ## TODO
 - Create a better documentation
 - Add tests
+- Add linting
 - Prepare samples
 - Publish to PyPI
