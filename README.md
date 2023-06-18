@@ -1,6 +1,8 @@
 # Easy docs from excel
 Create many words documents using data from an excel file. Optionally insert images.
 ## Basic usage
+### Prerequisites
+Make sure that you have installed all necessary packages in your environment. If needed use: `pip install -r requirements.txt`
 ### Configuration
 See the contents of `config_to_fill.yml` file:
 ```yml
